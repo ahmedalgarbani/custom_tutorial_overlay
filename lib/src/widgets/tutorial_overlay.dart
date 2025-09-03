@@ -227,7 +227,7 @@ class _TutorialOverlayContentState extends State<_TutorialOverlayContent> {
         );
         break;
       case TooltipPosition.auto:
-      default:
+
         // Auto-position based on available space
         position =
             _calculateAutoPosition(spotlightRect, tooltipSize, screenSize);
