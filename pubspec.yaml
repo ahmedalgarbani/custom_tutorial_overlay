@@ -1,5 +1,5 @@
 name: custom_tutorial_overlay
-description: "A Customaizable tutorial overlay package for flutter that provides step-by-step walkthroughs with spotlight effects"
+description: "A flexible Flutter tutorial overlay that guides users step by step, highlighting important elements with spotlight effects."
 version: 0.0.1
 # author: Ahmed AlGarbani <amdevssoft@email.com>
 homepage: https://github.com/ahmedalgarbani/custom_tutorial_overlay
