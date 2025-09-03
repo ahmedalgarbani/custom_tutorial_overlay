@@ -1,6 +1,6 @@
 name: custom_tutorial_overlay
 description: "A flexible Flutter tutorial overlay that guides users step by step, highlighting important elements with spotlight effects."
-version: 0.0.1
+version: 1.0.0
 # author: Ahmed AlGarbani <amdevssoft@email.com>
 homepage: https://github.com/ahmedalgarbani/custom_tutorial_overlay
 repository: https://github.com/ahmedalgarbani/custom_tutorial_overlay
