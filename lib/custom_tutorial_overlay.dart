@@ -12,6 +12,7 @@ export 'src/models/tutorial_config.dart';
 export 'src/widgets/tutorial_overlay.dart';
 export 'src/widgets/tutorial_builder.dart';
 export 'src/widgets/step_indicator_widget.dart';
+export 'src/widgets/tutorial_tooltip.dart';
 
 // Painters (optional export for advanced customization)
 export 'src/painters/tutorial_overlay_painter.dart';
